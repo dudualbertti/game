@@ -2,7 +2,7 @@
 
 Uma breve descrição do jogo. Explique o objetivo e o que torna o jogo interessante.
 
-## 🕹️ Mecânica do Jogo
+## 🕹️ Mecânica
 
 - 📌 Mecânicas do Jogador
   
@@ -22,7 +22,7 @@ POWER-UPS TEMPORÁRIOS
 
 Itens coletáveis que ajudam na sobrevivência, oferecendo vantagens por tempo limitado.
 
-- 🎯 Objetivo principal do jogo.
+- 🎯 Objetivo principal .
   
   * O jogador recebe pontos com base nos cristais coletados e no tempo restante ao completar cada fase. Quanto mais eficiente for a coleta, maior será a pontuação. Se o jogador alcançar uma pontuação alta, poderá desbloquear um final alternativo que revela segredos adicionais sobre a misteriosa e enigmática Caverna de Eldoria, proporcionando uma experiência ainda mais imersiva.
     
@@ -48,7 +48,7 @@ Rochas dão um aviso visual através de rachaduras no teto, permitindo que jogad
 
 - Godot
 
-## 🚀 Como Rodar o Jogo
+## 🚀 Como Rodar 
 
 ### Pré-requisitos:
 - O que é necessário para rodar? (ex: Node.js, um navegador, um emulador, etc.)
