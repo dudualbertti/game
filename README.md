@@ -51,7 +51,7 @@ Rochas dão um aviso visual através de rachaduras no teto, permitindo que jogad
 ## 🚀 Como Rodar 
 
 ### Pré-requisitos:
-- O que é necessário para rodar? (ex: Node.js, um navegador, um emulador, etc.)
+- O que é necessário para rodar?
 
 ### Passos para rodar:
 ```sh
