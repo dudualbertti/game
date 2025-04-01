@@ -31,11 +31,15 @@ Itens coletáveis que ajudam na sobrevivência, oferecendo vantagens por tempo l
   A dificuldade aumenta progressivamente conforme o jogador avança pelas fases. O jogador terá que se mover cada vez mais rapidamente para compensar o tempo reduzido, enquanto enfrenta obstáculos mais complexos. Os cristais mais valiosos ficam estrategicamente posicionados em locais que exigem maior habilidade e risco para serem alcançados.
 
 Inimigos e Desafios
+
 Tipos de Inimigos
+
 Morcegos Noturnos voam em padrões imprevisíveis e empurram o jogador se tocarem nele, podendo causar quedas fatais em abismos.
 Espinhos Ocultos aparecem do chão após um tempo, exigindo reação rápida do jogador para evitar danos.
 Rochas Caindo representam um perigo constante, forçando o jogador a estar sempre atento às rachaduras no teto.
+
 Como Evitar
+
 Morcegos podem ser evitados ao pular na hora certa, observando seus padrões de voo para antecipar seus movimentos.
 Espinhos possuem uma pequena animação antes de surgirem, dando ao jogador uma chance de escapar se estiver atento.
 Rochas dão um aviso visual através de rachaduras no teto, permitindo que jogadores observadores possam se afastar da área de perigo.
