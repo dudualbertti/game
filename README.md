@@ -1,3 +1,7 @@
+# TESTE 
+
+
+
 # 🎮 A Caverna de Eldoria: Uma Aventura Arqueológica
 
 Uma breve descrição do jogo. Explique o objetivo e o que torna o jogo interessante.
